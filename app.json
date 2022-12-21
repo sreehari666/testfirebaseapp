@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "testfirebaseapp",
+    "slug": "testfirebaseapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "testfirebaseapp"
+}
